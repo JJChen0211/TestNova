@@ -1,0 +1,3 @@
+2025-03-29T13:46:55.358+0800	INFO	pkg/tools.go:34	本机ip：10.39.1.225
+2025-03-29T13:47:27.158+0800	INFO	pkg/tools.go:34	本机ip：10.39.1.225
+2025-03-29T16:18:04.979+0800	INFO	runnergo-collector-open-open/main.go:76	注销成功
